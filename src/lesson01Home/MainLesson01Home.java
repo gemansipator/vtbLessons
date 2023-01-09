@@ -1,6 +1,6 @@
 package lesson01Home;
 
-public class MainAnimal {
+public class MainLesson01Home {
     public static void main(String[] args) {
 //        Cat cat = new Cat();
 //        Dog dog = new Dog();
