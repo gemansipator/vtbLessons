@@ -1,4 +1,4 @@
-package lesson02Home;
+package lesson02.home;
 
 public class Treadmill { //беговая дорожка
     int trackLength;

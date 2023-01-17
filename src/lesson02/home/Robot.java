@@ -1,4 +1,4 @@
-package lesson02Home;
+package lesson02.home;
 
 public class Robot implements Jump, Run{
     @Override
